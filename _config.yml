@@ -9,14 +9,14 @@
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
-title: "Home"
-name: "J Roberge"
-email: jwr1015@wildcats.unh.edu
-url: "http://www.pwills.com"
-repository: "jwr1015/jwr1015.github.io"
+title: "My Portfolio"
+name: "Samantha Roberts"
+email: sarroberts5@gmail.com
+# url: "http://www.pwills.com"
+repository: "samantha-roberts/samantha-roberts.github.io"
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -24,7 +24,7 @@ locale                   : "en-US"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 # name                     : "Your Name"
-description              : "An amazing website."
+description              : "Data Science Portfolio"
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 # repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -36,16 +36,16 @@ words_per_minute         : 200
 comments:
   provider               : 'disqus' # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : 'https://http-jwr1015-github-io' # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+#     shortname            : 'https://http-jwr1015-github-io' # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "light" # (default), "dark"
   utterances:
-    theme                : # "github-light" (default), "github-dark"
+    theme                : "github-light" # (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
@@ -111,13 +111,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joshua Roberge"
+  name             : "Samantha Roberts"
   avatar           : "/assets/images/headshot_2.jpg"
-  bio              : "Data Science and Analytics"
-  location         : "Dover NH, 03851"
-  email            :  "jwr1015@wildcats.unh.edu"
-  github           : "jwr1015"
-  linkedin: "joshua-roberge"
+  bio              : "Aspiring Data Scientist"
+  location         : "Durham, New Hampshire"
+  email            :  "sarroberts5@gmail.com"
+  github           : "samantha-roberts"
+  linkedin: "https://www.linkedin.com/in/samantha-roberts-profile/"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -133,7 +133,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/samantha-roberts/samantha-roberts.github.io"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
