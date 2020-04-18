@@ -1,0 +1,41 @@
+---
+title: "Iconic Tv Shows"
+layout: posts
+date: 2019-10-31
+tags:
+  - SentimentAnalysis
+  - R
+  - Project
+  - Web_Scraping
+---
+<center><h2><strong>Project Overview</strong></h2></center>
+<p>
+Beginning with Howdy Doody and the Ed Sullivan Show to gripping dramas such as Game of Thrones and Breaking Bad,
+television shows have become an integral part of modern-day existence. What draws us to coach for an hour or two a night.
+What makes a show timeless and iconic? Quite simply, what are the ingredients for a successful tv program? . To answer the 
+purposed question, this analysis will use three techniques: one, web scrapping to acquire the data; two, descriptive statistics to 
+understand what factors influence the popularity of movies;and three, Sentiment Analysis to understand people's emotional connections to the shows they watch.
+</p>
+
+<center><strong><h2>Snap Shot of the Results</h2></strong></center>
+<p>
+  The following paragraphs will be a quick overview of the results from the Iconic Tv Project. 
+  For a more detailed analysis and code example please click on the link below. 
+</p>
+<strong><h3>For a more detailed analysis and code example, please click
+<a href="https://jwr1015.github.io/markdown_links/scrapy_markdown.html">here</a></h3></strong>
+<br>
+ <font size="5"><strong>Genere's Effect:</strong> </font>
+<p>
+The graph to the left reveals how genere affects a Tv 
+show's rating while the graph to the right reveals which generes receive the most aculades.
+</p>
+<img src="https://github.com/jwr1015/jwr1015.github.io/blob/master/images/movie_.PNG?raw=true">
+<br>
+<font size="5"><strong>Sentiment Analysis of Tv Reviews:</strong></font>
+<p>
+The graph below shows how negative words tend to be associated with good Tv. 
+These negative sentiments could reveal people's inclinations towards the dramatic.
+</p>
+<img src="https://github.com/jwr1015/jwr1015.github.io/blob/master/images/movie_3.PNG?raw=true">
+<br>
