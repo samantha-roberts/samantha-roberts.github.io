@@ -112,7 +112,7 @@ analytics:
 # Site Author
 author:
   name             : "Samantha Roberts"
-  avatar           : "/assets/images/headshot_2.jpg"
+  avatar           : "/images/linkedin.jpg"
   bio              : "Aspiring Data Scientist"
   location         : "Durham, New Hampshire"
   email            :  "sarroberts5@gmail.com"
