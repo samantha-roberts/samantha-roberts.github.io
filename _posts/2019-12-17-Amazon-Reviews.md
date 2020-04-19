@@ -33,9 +33,9 @@ The analysis and visuals were created to study the relationship between the rati
 </p>
 
 <h3><center><strong>Part 1: Document Term Matrices (DTM)</strong></center></h3>
-<p>
   <center><img src="/images/dtmdf.png" style="float:left;margin:0 20px 20px 0;" width="400" height="700"><center><br>
   <center><img src="/images/dtm2.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"><center><br>
+<p>
 To begin the analysis process, a random sample of 10,000 was taken from the entrie dataset of Amazon reviews. This sample included the three columns in the original dataset, Rating, Title and Description.
 </p>
 <p>
