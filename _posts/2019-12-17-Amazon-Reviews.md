@@ -18,25 +18,22 @@ last_modified_at: 2018-11-3
 
 <h2><center><strong>Predicting Amazon Reviews through Text Analysis</strong></center></h2>
 <p>
-<img src="/images/amazon.png"> style=float:center
-
+ <center><img src="/images/amazon.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
 <h3><center>Description:</center></h3>
 The analysis and visuals were created to study the relationship between the rating of amazon products and the words used in the review descriptions left on the products. The rating for each product is a number, having values 1, 2, 3, 4, and 5, with 5 being the highest rating. The review descriptions can be anywhere from a single word, to a short paragraph reviewing the product. The object of this analysis is to create numerical classifications using sentiment analysis to understand the efficacy of the polarity scores of text mining in classifying reviews. 
-<p>
+</p>
  
 <ul>
-<li> </li>
+<!-- <li> </li> -->
 
 </ul>
 <em>To view the code used in this excercise please click <a href="https://jwr1015.github.io/links/amazon_reviews_analysis.html">here</a></em>
-
-
 </p>
 
 <h3><center><strong>Part 1: Document Term Matrices (DTM)</strong></center></h3>
 <p>
-  <img src="/images/dtmdf.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
-  <img src="/images/dtm2.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
+  <center><img src="/images/dtmdf.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
+  <center><img src="/images/dtm2.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
 To begin the analysis process, a random sample of 10,000 was taken from the entrie dataset of Amazon reviews. This sample included the three columns in the original dataset, Rating, Title and Description.
 </p>
 <p>
@@ -49,9 +46,8 @@ To begin the analysis process, a random sample of 10,000 was taken from the entr
 <center><h3><strong>Part 2: Polarity Scores and Sentiment Analysis</strong></h3></center>
 <br>
 <p>
-<img src="/images/textblob_hist.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br>
-  <img src="/images/tot_polarity_table.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br>
-
+  <center><img src="/images/textblob_hist.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
+  <center><img src="/images/tot_polarity_table.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
 After each document term matrix was created, polarity scores were calculated from them. The first method to discover the polarity scores was TextBlob. TextBlob returns both a polarity score and a subjectivity score, where polarity is between -1 and 1, where -1 is a very negative word and 1 is a very positive word, and subjectivity is between 0 and 1, with 0 being very objective and 0 being very subjective. TextBlob was applied to the “cleaned” Description column (tokenized, stop-word free, stemmed) in order to have unbiased results. By plotting the TextBlob results for Description it is easy to see that the majority of words have a polarity score of 0, meaning they are not negative or positive. There is a large spike at polarity score of 0, indicating there are a lot of neutral words. However, the center of the histogram is situated slightly to the right of 0, suggesting that there are more positively polarized scores than negative. The second method used was VADER. VADER is used for both polarity (how positive or negative a word is) and the intensity of the emotion the word conveys. VADER returns positive, negative, neutral and compound scores. The compound score is the metric that’s calculated from the sum of all the ratings. Positive, negative and neutral scores are then based off the compound score, with positive seniments having a compound score greater than or equal to 0.05, negative sentiments having a compound score less than or equal to -0.05, and a neutral sentiment having compound scores less than 0.05, but greater than -0.05. The polarity and subjectivity scores for TextBlob are stored in the columns Description_Sent_pol and Description_Sent_sub, respectively. For VADER, positive scores are in the column pos, negative scores are in the column neg, neutral scores are in the column neu, and compound scores are in the column compound. 
 </p><br>
 
