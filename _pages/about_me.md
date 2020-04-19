@@ -8,12 +8,12 @@ last_modified_at: 2018-11-3
 ---
 
 **Background**<br>
-<center><img src="/images/frontsteps.JPG" width="400"/></center>
+<img src="/images/frontsteps.JPG" width="400"/>
 
 </br>
 
 **Education**<br>
-<center><img src="/images/unhlogo.png" width="400"/></center><br>
+<img src="/images/unhlogo.png" width="400"/>><br>
 
 </br>
 
