@@ -3,7 +3,7 @@ title: "<br><br><br><br><br>About Me<br>"
 permalink: /about-me/
 layout: splash
 header:
-  overlay_image: /images/lake.jpg
+  overlay_image: "/images/lake.jpg"
 last_modified_at: 2018-11-3
 ---
 
