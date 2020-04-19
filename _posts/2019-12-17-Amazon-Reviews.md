@@ -18,7 +18,7 @@ last_modified_at: 2018-11-3
 
 <h2><center><strong>Predicting Amazon Reviews through Text Analysis</strong></center></h2>
 <p>
-<img src="/images/amazon.PNG">
+<img src="/images/amazon.png">
 
 <h3><center>Description:</center></h3>
 The analysis and visuals were created to study the relationship between the rating of amazon products and the words used in the review descriptions left on the products. The rating for each product is a number, having values 1, 2, 3, 4, and 5, with 5 being the highest rating. The review descriptions can be anywhere from a single word, to a short paragraph reviewing the product. The object of this analysis is to create numerical classifications using sentiment analysis to understand the efficacy of the polarity scores of text mining in classifying reviews. 
