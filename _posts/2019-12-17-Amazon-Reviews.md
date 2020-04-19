@@ -10,12 +10,7 @@ tags:
   - Unsupervised
 <!-- header:
   overlay_image: /assets/images/workflow_amazon.PNG -->
-last_modified_at: 2018-11-3
 ---
-
-
-
-
 <h2><center><strong>Predicting Amazon Reviews through Text Analysis</strong></center></h2>
 <p>
  <center><img src="/images/amazon.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
