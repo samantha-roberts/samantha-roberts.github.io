@@ -1,22 +1,25 @@
 ---
 title: "<br><br><br><br><br>About Me<br>"
-permalink: /about/
+permalink: /about-me/
 layout: splash
 header:
-  overlay_image: /images/frontsteps.jpg
+  overlay_image: /images/lake.jpg
 last_modified_at: 2018-11-3
 ---
 
 **Background**<br>
+<center><img src="/images/frontsteps.jpg" alt="drawing" width="800"/></center><br>
+
+</br>
 
 **Education**<br>
 <center><img src="/images/unhlogo.png" alt="drawing" width="800"/></center><br>
 
-<br>
+</br>
 
 **Future**<br>
 
-<br>
+</br>
 
 
 
