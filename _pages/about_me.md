@@ -8,7 +8,7 @@ last_modified_at: 2018-11-3
 ---
 
 **Background**<br>
-<center><img src="/images/frontsteps.jpeg" width="400"/></center>
+<center><img src="/images/frontsteps.JPG" width="400"/></center>
 
 </br>
 
