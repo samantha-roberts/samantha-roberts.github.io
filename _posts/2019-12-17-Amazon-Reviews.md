@@ -1,7 +1,7 @@
 ---
-title: "A Predictive Review: A Text Analysis of Amazon Reviews"
+title: "Text Analysis of Amazon Reviews for Prediction"
 layout: splash
-date: 17-12-2019
+date: 2019-12-17
 tags:
   - Sentiment Analysis
   - Tokenizing
@@ -39,7 +39,7 @@ last_modified_at: 2018-11-3
 <center><h3><strong>Sentiment:</strong></h3></center>
 <br>
 <p>
-<img src="/assets/images/sentiment_crop.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
+<img src="" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
 
 
 <center><h3><strong> Dimension Reduction:</strong></h3></center>
@@ -50,21 +50,21 @@ last_modified_at: 2018-11-3
 <p>
 </p><br>
 
-<center><img src="/assets/images/UMAP.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
+<center><img src="" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
 <br>
 
 <em>LLE:</em>
 <p>
 </p><br>
 
-<center><img src="/assets/images/LLE.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
+<center><img src="" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
 
 <em>TSNE:</em>
 <p>
 
  </p><br>
 
-<center><img src="/assets/images/TSNE.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
+<center><img src="" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
 
 
 <center><h3><strong>Clustering & Token Frequency:</strong></h3></center>
@@ -73,7 +73,7 @@ last_modified_at: 2018-11-3
  <br></p><br>
 
 <em>Token Frequency:</em><br>>
-<img src="/assets/images/token_by_ratting.PNG" style="float:right;margin:0 20px 20px 0;" width="400" height="700">
+<img src="" style="float:right;margin:0 20px 20px 0;" width="400" height="700">
 <br><p>
 
  </p><br>
@@ -97,13 +97,13 @@ last_modified_at: 2018-11-3
 
  </p><br>
 
- <center><img src="/assets/images/Top_models_pretty.PNG" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
+ <center><img src="" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
 
 <em>Tuning and Feature Selection:</em>
 <br><p>
 .
  </p><br>
- <center><img src="/assets/images/XG_ft_importance_fig.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
+ <center><img src="" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
 
 <em>Finalization and Testing:</em>
 <br><p>
