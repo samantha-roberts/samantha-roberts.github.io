@@ -61,14 +61,14 @@ The analysis and visuals were created to study the relationship between the rati
   To reduce dimensionality for the Document Term Matrices, three methods were used: Sparse Principal Component Analysis (PCA), UMAP, and Locally Linear Embedding (LLE). Sparse PCA was chosen because it takes the minimum, most efficient input variables, and generally makes for a better classification method. There were twenty components chosen for Sparse PCA. The second dimension reduction technique, UMAP, is used to take the multi-dimensional space and reduce it down to 2-dimensions. By plotting UMAP it is easy to see the distribution of the product ratings with the density of UMAP. Both UMAP plots show that there does not appear to be a strategic categorization of ratings in the reduced dimensions. This is seen easily because there is not a gradual transition between colors within the plot, indicating that there is a not a separation of ratings. The third method for dimension reduction used was Locally Linear Embedding, which preserves the distances between neighbors on a local level, instead of on a global level like Principal Components do. Based off the values of the LLE columns, similar results to UMAP were obtained, where there is not any way to decipher which rating is in which LLE dimension. 
 </p>
 
-<em>Part 4: Clustering</em>
+<center><h3><strong>Part 4: Clustering</strong></h3></center>
 <p>
   <center><img src="/images/kmeans.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
   <figcaption>Fig.6 - K-Means Clustering Distributions</figcaption>
   Three clustering techniques were attempted for this analysis: Kmeans clustering, DBScan, and Agglomerative clustering. For Kmeans clustering on both dimension reduced Document Term Matrices, seven clusters were used, with the max iteration value set to 300. DBScan had 4 clusters with a minimum amount of samples equal to 2, and Agglomerative clustering also had 4 clusters. All three clustering techniques failed to show how the dimension reduced DTMs were clustered. All plots for all clusters from these methods were normally distributed, with the majority (and the center) of the distributionsbeing located at 0. This means that there was not a difference between a review that had a rating of 1 or a review with a rating of 5, based off the polarity of the words used. This does not seem to be accurate because it would be expected that reviews with a rating of 1 would have polarity scores that are deemed negative (less than -0.05) and that reviews with a rating of 5 would have polarity scores that are considered positive (greater than 0.05), with neutral scores falling in between. 
 </p><br>
 
-<em>Part 5: Modeling</em>
+<center><h3><strong>Part 5: Modeling</strong></h3></center>
 <p>
   <center><img src="/images/model_comparison.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
   <figcaption>Fig.7 - Model Comparison</figcaption>
