@@ -19,11 +19,12 @@ last_modified_at: 2018-11-3
 <h2><center><strong>Predicting Amazon Reviews through Text Analysis</strong></center></h2>
 <p>
  <center><img src="/images/amazon.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center><br>
+  
 <h3><center>Description:</center></h3>
 The analysis and visuals were created to study the relationship between the rating of amazon products and the words used in the review descriptions left on the products. The rating for each product is a number, having values 1, 2, 3, 4, and 5, with 5 being the highest rating. The review descriptions can be anywhere from a single word, to a short paragraph reviewing the product. The object of this analysis is to create numerical classifications using sentiment analysis to understand the efficacy of the polarity scores of text mining in classifying reviews. 
 </p>
  
-<ul>
+<!-- <ul> -->
 <!-- <li> </li> -->
 
 </ul>
@@ -32,10 +33,8 @@ The analysis and visuals were created to study the relationship between the rati
 
 <h3><center><strong>Part 1: Document Term Matrices (DTM)</strong></center></h3>
 <p>
-  <center><img src="/images/dtmdf.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
-  <center><img src="/images/dtm2.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
+  <center><img src="/images/dtmdf.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"><center><img src="/images/dtm2.png" style="float:right;margin:0 20px 20px 0;" width="400" height="700"> <br></p><br>
 To begin the analysis process, a random sample of 10,000 was taken from the entrie dataset of Amazon reviews. This sample included the three columns in the original dataset, Rating, Title and Description.
-</p>
 <p>
 	In order to create document term matrices, all words in the sample dataframe  (amazon_sample) were converted to having only lower case letters. Next, all words in the Title and Description columns were tokenized. Tokenization is the process of breaking up a sequence of strings into smaller pieces; in this case each string was broken down into tokens of each individual word in the columns. By doing this, it is easier to decide which words are linked to each rating, based off reviews of products. Next, each token in the dataframe was stemmed. Stemming is when each word (the tokens) are reduced to their stem or root form. For example, the stemmed version of the word “running” would be “run.” The stemming method used was Porter Stemmer, which is the default algorithm in Python for stemming. By definition, Porter Stemming is “the process for removing the commoner morphological and inflexional endings from words in English .” Finally, to prepare the columns for the DTMs, stop words were removed from both Title and Description columns. Stop words are commonly used words that have little to no importance. By removing stop words, it becomes easier to focus on the important words instead. The stop words removed from the dataframe were all English stop words.
 </p>
