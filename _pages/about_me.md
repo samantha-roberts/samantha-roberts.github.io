@@ -7,7 +7,7 @@ header:
 ---
 **Background**<br>
 <div>
-    <img style="float: left; src="/images/frontsteps.JPG" width = "400"/>
+    <img src="/images/frontsteps.JPG" width="400"/>
     <p style="float: right;">I grew up in Lebanon, NH and have been located in Durham, NH for the last 5 years for my education. Lebanon is home to the majority of my family- which I love because I am able to spend time with my grandparents, cousins and siblings when I visit. My favorite thing to do when I am home is to take my dog Abe (in the picture to the left) to my lakehouse and throw the tennis ball for him. I love athletics and played throughout my whole life. In my undergrad, I played on the Women's Club Ice Hockey Team and served as Treasurer as well. My ideal Saturday night is to sit next to a fire and watch the Bruins play while eating Pad Thai. When I am not with family, friends, or my dog I enjoy being outdoors and reading in the sunshine. </p>
 </div>
 
