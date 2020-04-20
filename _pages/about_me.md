@@ -7,6 +7,14 @@ header:
 ---
 
 **Background**<br>
+<div id="qr" style="display:inline-block; min-width:2.2cm; height:3.8cm; align:left; vertical-align: middle;" >
+  <img src="/images/frontsteps.JPG" style="height:3.8cm;">
+</div>
+<div style="display:inline-block;vertical-align: middle;">
+I grew up in Lebanon, NH and have been located in Durham, NH for the last 5 years for my education. Lebanon is home to the majority of my family- which I love because I am able to spend time with my grandparents, cousins and siblings when I visit. My favorite thing to do when I am home is to take my dog Abe (in the picture to the left) to my lakehouse and throw the tennis ball for him. I love athletics and played throughout my whole life. In my undergrad, I played on the Women's Club Ice Hockey Team and served as Treasurer as well. My ideal Saturday night is to sit next to a fire and watch the Bruins play while eating Pad Thai. When I am not with family, friends, or my dog I enjoy being outdoors and reading in the sunshine.
+</div>
+
+**Background**<br>
 <img src="/images/frontsteps.JPG" width="400"/> I grew up in Lebanon, NH and have been located in Durham, NH for the last 5 years for my education. Lebanon is home to the majority of my family- which I love because I am able to spend time with my grandparents, cousins and siblings when I visit. My favorite thing to do when I am home is to take my dog Abe (in the picture to the left) to my lakehouse and throw the tennis ball for him. I love athletics and played throughout my whole life. In my undergrad, I played on the Women's Club Ice Hockey Team and served as Treasurer as well. My ideal Saturday night is to sit next to a fire and watch the Bruins play while eating Pad Thai. When I am not with family, friends, or my dog I enjoy being outdoors and reading in the sunshine. 
 </br>
 
