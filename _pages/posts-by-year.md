@@ -2,5 +2,5 @@
 title: "Posts by Year"
 permalink: /posts-by-year/
 layout: splash
-header:
+author_profile: true
 ---
