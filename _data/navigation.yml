@@ -5,7 +5,7 @@ main:
   - title: "About Me"
     url: /about-me/
   - title: "Posts by Year"
-    url: /posts-years/
+    url: /posts-by-years/
   - title: "Posts by Tag"
     url: /tags/
   - title: "Resume"
