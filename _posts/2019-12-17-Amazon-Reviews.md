@@ -23,10 +23,6 @@ The analysis and visuals were created to study the relationship between the rati
 <!-- <ul> -->
 <!-- <li> </li> -->
 
-<p>
-<em>To view the code used in this excercise please click <a href="https://jwr1015.github.io/links/amazon_reviews_analysis.html">here</a></em>
-</p>
-
 <h3><center><strong>Part 1: Document Term Matrices (DTM)</strong></center></h3>
 <p>
   <center><img src="/images/dtmdf.png" style="margin:0 20px 20px 0;" width="800" height="800" align="middle"></center>
