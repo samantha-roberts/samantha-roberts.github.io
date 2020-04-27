@@ -9,7 +9,7 @@ header:
 <br>
 <!-- <img src=" width="400" class="center" style="border:5px solid black" float="left"/> -->
 <p style="width: 500px;">
-<img src="/images/frontsteps.JPG" width="400" style="float: right;" />
+<img src="/images/frontsteps.JPG" width="400" style="float: left;" />
 I grew up in Lebanon, NH and have been in Durham, NH for the last 5 years for my education. Lebanon is home to most of my family- which I love because I can spend time with my grandparents, cousins, and siblings when I visit. My favorite thing to do when I am home is to take my dog Abe (in the picture to the left) to my lake house and throw the tennis ball for him. I love athletics and played throughout my whole life. In my undergrad, I played on the Women's Club Ice Hockey Team and served as Treasurer as well. My ideal Saturday night is to sit next to a fire and watch the Bruins play while eating Pad Thai. When I am not with family, friends, or my dog I enjoy being outdoors and reading in the sunshine.
 </p> 
 
