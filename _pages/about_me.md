@@ -5,20 +5,6 @@ layout: splash
 header:
   overlay_image: /images/lake.jpg
 ---
-<div class='container2'>
-        <div>
-            <img src="/images/frontsteps.JPG/" class='iconDetails'>
-        </div>  
-    <div style='margin-left:60px;'>
-    <h4>Facebook</h4>
-    <div style="font-size:.6em">fine location, GPS, coarse location</div>
-    <div style="float:right;</div>
-    </div>
-</div>
-
-
-
-
 **Background**
 <br>
 <!-- <img src=" width="400" class="center" style="border:5px solid black" float="left"/> -->
