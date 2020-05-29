@@ -7,7 +7,6 @@ header:
 ---
 <H3 align = "center"> Background </H3>
 <br>
-<br>
 <img style="vertical-align:middle" align="left" src="/images/frontsteps.JPG" width="500" height="500" style="left; padding-right: 50px;" />
 <p>
 I grew up in Lebanon, NH and have been in Durham, NH for the last 5 years for my education. Lebanon is home to most of my family-     which I love because I can spend time with my grandparents, cousins, and siblings when I visit. My favorite thing to do when I am home  is to take my dog Abe (in the picture to the left) to my lake house and throw the tennis ball for him. I love athletics and played throughout my whole life. In my undergrad, I played on the Women's Club Ice Hockey Team and served as Treasurer as well. My ideal Saturday night is to sit next to a fire and watch the Bruins play while eating Pad Thai. When I am not with family, friends, or my dog I enjoy being outdoors and reading in the sunshine.
@@ -18,8 +17,7 @@ I grew up in Lebanon, NH and have been in Durham, NH for the last 5 years for my
 <br>
 <br>
 <br>
-**Education**
-<br>
+<H3 align = "center"> Education </H3>
 <br>
 <img style="vertical-align:middle" align="left" src="/images/unhlogo.png" width="500" height="500" style="float:left; padding-right: 50px;" />
 <p>
@@ -28,8 +26,7 @@ I began pursuing my Bachelor of Science in Statistics and Minor in Spanish at th
 
 <br>
 <br>
-**Future**
-<br>
+<H3 align = "center"> Future </H3>
 <br>
 <img style="vertical-align:middle" align="left" src="/images/change.jpg" width="500" height="500" style="float:left; padding-right: 50px;" />
 <p>
