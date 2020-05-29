@@ -5,7 +5,7 @@ layout: splash
 header:
   overlay_image: /images/lake.jpg
 ---
-**Background**
+<p align = "center" **Background** /p>
 <br>
 <br>
 <img style="vertical-align:middle" align="left" src="/images/frontsteps.JPG" width="500" height="500" style="left; padding-right: 50px;" />
