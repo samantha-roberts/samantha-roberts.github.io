@@ -11,5 +11,3 @@ date: 2020-04-22
 <br>
 <h2><center>PowerPoint Presentation</center></h2>
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ4esvNx_HrHxHurmV_mBkxTXrv2Jj2k3JyhAeBr3aH0hxo1h4NqflZZtNxlDfPtg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-<h3><center>Description of the Project</center></h3>
