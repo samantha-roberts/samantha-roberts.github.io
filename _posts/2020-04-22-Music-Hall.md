@@ -21,3 +21,9 @@ There were two types of predictions that were conducted: a binary prediction (su
 <br>
 <br>
 <h2><center>Python Code for Modeling</center></h2>
+ <center><img src="/images/mh1.png"></center>
+ <center><img src="/images/mh2.png"></center>
+ <center><img src="/images/mh3.png"></center>
+ <center><img src="/images/mh4.png"></center>
+ <center><img src="/images/mh5.png"></center>
+ <center><img src="/images/mh6.png"></center>
