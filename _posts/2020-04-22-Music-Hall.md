@@ -2,6 +2,12 @@
 title: "The Music Hall Project"
 layout: splash
 date: 2020-04-22
+tags:
+  - Random Forest
+  - Prediction
+  - Synthetic data
+  - Modeling
+  - Python
 ---
 <h2><center>Description of the Project</center></h2>
 <p>
