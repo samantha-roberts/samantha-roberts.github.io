@@ -27,5 +27,5 @@ There were two types of predictions that were conducted: a binary prediction (su
 <br>
 <br>
 <h2><center>Python Code for Modeling</center></h2>
-   <p><a href="360-Intel-Code.pdf"></a>.</p>
+ <iframe src="360-Intel-Code.pdf" width="100%" height="500px"></iframe>
 
