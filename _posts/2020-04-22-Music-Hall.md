@@ -27,5 +27,5 @@ There were two types of predictions that were conducted: a binary prediction (su
 <br>
 <br>
 <h2><center>Python Code for Modeling</center></h2>
- <iframe src="360-Intel-Code.pdf" width="100%" height="500px"></iframe>
+ <p>To view the code for this project click <a href="https://github.com/samantha-roberts/samantha-roberts.github.io/raw/master/Music-Hall-Code.pdf" title="hp">here.</a></p>
 
